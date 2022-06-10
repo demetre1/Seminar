@@ -36,6 +36,11 @@ body{
   text-align: center;
   padding: 20px 0px;
   
+  
+}
+#footer{
+  position: relative;
+  top: 540px;
 }
 
 
@@ -103,11 +108,39 @@ a:hover{
   
  
  }
+#Expirence{
+  position: relative;
+  text-align: center;
+  padding-top: 340px;
+}
+#rope{
+  width: 20%;
+  position: relative;
+  margin-left:40% ;
+  
+}
  #education{
-   padding-top: 100px ;
+   padding-top: 240px ;
  }
  #Programs{
    padding-top: 150px;
+   position: relative;
+ }
+ #skilll{
+  padding-top: 240px;
+ }
+ h4{
+  position: relative;
+  right: 18%;
+  top:25px
+ }
+ h5{
+  position: relative;
+  padding-left:30% ;
+  bottom: 30px;
+ }
+ .smallText{
+  right: 15%;
  }
 p{
   
@@ -172,7 +205,10 @@ p{
 
 
 .skills{
+  position: relative;
   text-align: center;
+  
+  
 }
 
 
@@ -272,6 +308,7 @@ hr{
   margin-top:20px;
   width: 100%;
   border-bottom: none;
+  text-align: center;
 
 }
 .image1{
